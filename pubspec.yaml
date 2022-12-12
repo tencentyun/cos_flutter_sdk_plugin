@@ -1,5 +1,5 @@
-name: cos
-description: Tencent COS SDK.
+name: cos_plugin
+description: Tencent Flutter Plugin COS SDK.
 version: 1.0.0+1
 homepage: https://cloud.tencent.com/document/product/436/6474
 repository: https://cloud.tencent.com/document/product/436/6474
