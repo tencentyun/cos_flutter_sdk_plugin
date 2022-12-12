@@ -1,0 +1,93 @@
+PODS:
+  - cos (1.0.0):
+    - Flutter
+    - QCloudCOSXML (>= 6.1.6)
+  - DKImagePickerController/Core (4.3.4):
+    - DKImagePickerController/ImageDataManager
+    - DKImagePickerController/Resource
+  - DKImagePickerController/ImageDataManager (4.3.4)
+  - DKImagePickerController/PhotoGallery (4.3.4):
+    - DKImagePickerController/Core
+    - DKPhotoGallery
+  - DKImagePickerController/Resource (4.3.4)
+  - DKPhotoGallery (0.0.17):
+    - DKPhotoGallery/Core (= 0.0.17)
+    - DKPhotoGallery/Model (= 0.0.17)
+    - DKPhotoGallery/Preview (= 0.0.17)
+    - DKPhotoGallery/Resource (= 0.0.17)
+    - SDWebImage
+    - SwiftyGif
+  - DKPhotoGallery/Core (0.0.17):
+    - DKPhotoGallery/Model
+    - DKPhotoGallery/Preview
+    - SDWebImage
+    - SwiftyGif
+  - DKPhotoGallery/Model (0.0.17):
+    - SDWebImage
+    - SwiftyGif
+  - DKPhotoGallery/Preview (0.0.17):
+    - DKPhotoGallery/Model
+    - DKPhotoGallery/Resource
+    - SDWebImage
+    - SwiftyGif
+  - DKPhotoGallery/Resource (0.0.17):
+    - SDWebImage
+    - SwiftyGif
+  - file_picker (0.0.1):
+    - DKImagePickerController/PhotoGallery
+    - Flutter
+  - Flutter (1.0.0)
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - QCloudCore (6.1.6):
+    - QCloudCore/Default (= 6.1.6)
+  - QCloudCore/Default (6.1.6)
+  - QCloudCOSXML (6.1.6):
+    - QCloudCOSXML/Default (= 6.1.6)
+  - QCloudCOSXML/Default (6.1.6):
+    - QCloudCore (= 6.1.6)
+  - SDWebImage (5.13.5):
+    - SDWebImage/Core (= 5.13.5)
+  - SDWebImage/Core (5.13.5)
+  - SwiftyGif (5.4.3)
+
+DEPENDENCIES:
+  - cos (from `.symlinks/plugins/cos/ios`)
+  - file_picker (from `.symlinks/plugins/file_picker/ios`)
+  - Flutter (from `Flutter`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - DKImagePickerController
+    - DKPhotoGallery
+    - QCloudCore
+    - QCloudCOSXML
+    - SDWebImage
+    - SwiftyGif
+
+EXTERNAL SOURCES:
+  cos:
+    :path: ".symlinks/plugins/cos/ios"
+  file_picker:
+    :path: ".symlinks/plugins/file_picker/ios"
+  Flutter:
+    :path: Flutter
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+
+SPEC CHECKSUMS:
+  cos: 1500c2f693b03e44a04212dad0fe153e2691e4ba
+  DKImagePickerController: b512c28220a2b8ac7419f21c491fc8534b7601ac
+  DKPhotoGallery: fdfad5125a9fdda9cc57df834d49df790dbb4179
+  file_picker: 817ab1d8cd2da9d2da412a417162deee3500fc95
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  path_provider_ios: 14f3d2fd28c4fdb42f44e0f751d12861c43cee02
+  QCloudCore: 71b19948643b65716f5238e605b9a0f93fe0c5d9
+  QCloudCOSXML: 225355d7659312ceca4e2f6fd84d7954b56c1c3d
+  SDWebImage: 23d714cd599354ee7906dbae26dff89b421c4370
+  SwiftyGif: 6c3eafd0ce693cad58bb63d2b2fb9bacb8552780
+
+PODFILE CHECKSUM: a6f2d38f98f4f59fb0303750c7dd381592cad796
+
+COCOAPODS: 1.11.3
