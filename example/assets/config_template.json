@@ -6,5 +6,4 @@
   "COS_SECRET_ID": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "COS_SECRET_KEY": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "PERSIST_BUCKET_REGION": "ap-guangzhou",
-  "PERSIST_BUCKET": "bucket_name"
 }

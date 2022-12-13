@@ -74,11 +74,9 @@ packages:
   cos_plugin:
     dependency: "direct main"
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: afe45a1fe3717c714f8bbf68cbc1e3b0e3017dc6
-      url: "https://github.com/tencentyun/cos_flutter_sdk_plugin.git"
-    source: git
+      path: ".."
+      relative: true
+    source: path
     version: "1.0.0+1"
   crypto:
     dependency: transitive
