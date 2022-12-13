@@ -1,4 +1,4 @@
-import 'package:cos/pigeon.dart';
+import 'pigeon.dart';
 
 class TransferTask {
   late final String _taskId;

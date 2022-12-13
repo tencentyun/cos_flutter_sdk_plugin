@@ -1,4 +1,4 @@
-import 'package:cos/pigeon.dart';
+import 'package:cos_plugin/pigeon.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';

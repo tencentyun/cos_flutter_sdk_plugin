@@ -1,4 +1,4 @@
-import 'package:cos/pigeon.dart';
+import 'package:cos_plugin/pigeon.dart';
 
 class ObjectEntity {
   final int _type;//文件夹0 文件1

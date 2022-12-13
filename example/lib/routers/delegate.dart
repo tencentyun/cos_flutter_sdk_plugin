@@ -1,4 +1,3 @@
-import 'package:cos_example/common/toast_utils.dart';
 import 'package:flutter/material.dart';
 
 import '../bucket/bucket_add_page.dart';
@@ -7,6 +6,7 @@ import '../bucket/region_list_page.dart';
 import '../object/object_list_page.dart';
 import '../transfer/download_page.dart';
 import '../transfer/upload_page.dart';
+import '../common/toast_utils.dart';
 import 'custom_page.dart';
 import 'not_found_page.dart';
 

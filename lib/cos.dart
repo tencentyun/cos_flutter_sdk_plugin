@@ -1,6 +1,6 @@
 import 'dart:collection';
 
-import 'package:cos/pigeon.dart';
+import 'pigeon.dart';
 
 import 'cos_service.dart';
 import 'cos_transfer_manger.dart';

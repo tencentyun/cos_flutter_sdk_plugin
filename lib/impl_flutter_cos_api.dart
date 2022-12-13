@@ -1,4 +1,4 @@
-import 'package:cos/pigeon.dart';
+import 'pigeon.dart';
 
 import 'cos.dart';
 

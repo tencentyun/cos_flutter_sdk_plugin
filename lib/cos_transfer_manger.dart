@@ -1,8 +1,8 @@
 import 'dart:collection';
 import 'dart:typed_data';
 
-import 'package:cos/pigeon.dart';
-import 'package:cos/transfer_task.dart';
+import 'pigeon.dart';
+import 'transfer_task.dart';
 
 import 'enums.dart';
 import 'exceptions.dart';

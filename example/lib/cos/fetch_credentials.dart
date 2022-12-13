@@ -1,13 +1,14 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:cos/fetch_credentials.dart';
-import 'package:cos/pigeon.dart';
+import 'package:cos_plugin/fetch_credentials.dart';
+import 'package:cos_plugin/pigeon.dart';
 
 class FetchCredentials implements IFetchCredentials{
   @override
   Future<SessionQCloudCredentials> fetchSessionCredentials() async {
-    var url = 'http://9.135.33.98:3000/sts';
+    //请将以下url换成获取临时秘钥的url
+    var url = 'http://stsservice.com/sts';
     var httpClient = HttpClient();
 
     try {

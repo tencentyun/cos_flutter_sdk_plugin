@@ -18,13 +18,16 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cos:
+  cos_plugin:
     # When depending on this package from a real application you should use:
     #   cos: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints
     # The example app is bundled with the plugin so we use a path dependency on
     # the parent directory to use the current plugin's version.
     path: ../
+
+#  cos_plugin:
+#    git: https://github.com/tencentyun/cos_flutter_sdk_plugin.git
 
   flutter_easyloading: ^3.0.5
   pull_to_refresh: ^2.0.0

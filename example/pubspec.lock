@@ -71,12 +71,14 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.1.1"
-  cos:
+  cos_plugin:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: afe45a1fe3717c714f8bbf68cbc1e3b0e3017dc6
+      url: "https://github.com/tencentyun/cos_flutter_sdk_plugin.git"
+    source: git
     version: "1.0.0+1"
   crypto:
     dependency: transitive

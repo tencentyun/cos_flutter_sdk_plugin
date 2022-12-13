@@ -1,6 +1,6 @@
-import 'package:cos/cos.dart';
-import 'package:cos/cos_service.dart';
-import 'package:cos/pigeon.dart';
+import 'package:cos_plugin/cos.dart';
+import 'package:cos_plugin/cos_service.dart';
+import 'package:cos_plugin/pigeon.dart';
 import 'package:flutter/material.dart';
 
 import 'package:pull_to_refresh/pull_to_refresh.dart';

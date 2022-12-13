@@ -1,8 +1,8 @@
-import 'package:cos/cos.dart';
-import 'package:cos/cos_transfer_manger.dart';
-import 'package:cos/enums.dart';
-import 'package:cos/pigeon.dart';
-import 'package:cos/transfer_task.dart';
+import 'package:cos_plugin/cos.dart';
+import 'package:cos_plugin/cos_transfer_manger.dart';
+import 'package:cos_plugin/enums.dart';
+import 'package:cos_plugin/pigeon.dart';
+import 'package:cos_plugin/transfer_task.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
